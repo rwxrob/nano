@@ -16,8 +16,9 @@ go get -u gitlab.com/skilstak/code/go/nano
 
 Nano is a horrible editor, beyond horrible! Here is a list of the reasons why:
 
-*	encourages beginners to use Ctrl-z, Ctrl-s, and such (which backgrounds and suspends stuff everywhere else),
-*	makes beginners dependent on a silly, spammy editor no professional actually uses regularly.
+*	Encourages beginners to use Ctrl-z, Ctrl-s.
+*	Makes beginners dependent on a silly, spammy editor no professional actually uses regularly.
+* Does not allow use of filters.
 
 The fact that some distributions have made `nano` the default editor on some Linux variants is just plain stupid. I mean really stupid. I seriously doubt any professional Linux educator was involved in that decision.
 
