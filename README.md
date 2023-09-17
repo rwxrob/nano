@@ -6,10 +6,9 @@
 
 ## Installation
 
-If you have `go` installed:
-
-```
-go get -u gitlab.com/skilstak/code/go/nano
+```bash
+make build
+mv nano /usr/local/bin
 ```
 
 ## Motivation
